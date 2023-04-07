@@ -1,0 +1,35 @@
+h1, p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    font-size: 100px;
+    position: relative;
+    text-align: center;
+}
+
+p {
+    font-size: 50px;
+    position: relative;
+    text-align: center;
+}
+
+.vertical-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.container { 
+    height: 200px;
+    position: relative;
+  }
+
+  button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+
+  }
